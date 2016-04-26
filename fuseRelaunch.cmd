@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/AyS/Desktop/ArquitecturaComputadores/Procesador_monociclo/Procesador_Clase/Procesador_monociclo/mux_RFSEUtoALU_isim_beh.exe" -prj "C:/Users/AyS/Desktop/ArquitecturaComputadores/Procesador_monociclo/Procesador_Clase/Procesador_monociclo/mux_RFSEUtoALU_beh.prj" "work.mux_RFSEUtoALU" 

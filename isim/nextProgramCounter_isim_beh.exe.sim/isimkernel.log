@@ -1,0 +1,29 @@
+Command line:
+   nextProgramCounter_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  53843
+
+Thu Apr 21 17:55:28 2016
+
+
+ Elaboration Time: 0.062401 sec
+
+ Current Memory Usage: 666.632 Meg
+
+ Total Signals          : 4
+ Total Nets             : 66
+ Total Signal Drivers   : 1
+ Total Blocks           : 4
+ Total Primitive Blocks : 4
+ Total Processes        : 1
+ Total Traceable Variables  : 10
+ Total Scalar Nets and Variables : 444
+Total Line Count : 4
+
+ Total Simulation Time: 0.062401 sec
+
+ Current Memory Usage: 666.632 Meg
+
+Thu Apr 21 17:57:54 2016
+
